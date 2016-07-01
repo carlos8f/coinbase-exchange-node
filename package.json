@@ -24,7 +24,7 @@
     "nock": "3.6.0",
     "num": "0.2.1",
     "request": "2.51.0",
-    "ws": "0.7.0"
+    "ws": "git+https://github.com/carlos8f/ws.git"
   },
   "description": "Client for the Coinbase Exchange API",
   "devDependencies": {
